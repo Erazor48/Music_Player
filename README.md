@@ -1,7 +1,8 @@
 
 <div align="center">
   <h1>🎧 Music_Player</h1>
-  <img src="resources\Tkinter_Music_Player_UI.png"/>
+  <img src="resources\Tkinter_Music_Player_UI.png" width="300"/>
+  <h4>⚠️ This repository has been archived and is no longer maintained. ⚠️</h4>
 </div>
 
 ## 🇬🇧 English Version
