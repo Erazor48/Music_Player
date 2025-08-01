@@ -1,3 +1,8 @@
-.cache
-/Hide
-/__pycache__
+# Cache général
+.cache/
+
+# Dossier "Hide" à la racine
+/Hide/
+
+# Tous les dossiers __pycache__ où qu’ils soient
+__pycache__/
